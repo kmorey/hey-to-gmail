@@ -1,0 +1,5 @@
+X-Forwarded-For: user@gmail.com user@hey.com
+X-Forwarded-To: user@hey.com
+From: sender@example.com
+To: user@hey.com
+Subject: Missing Delivered-To header

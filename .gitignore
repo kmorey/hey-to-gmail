@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Local runtime/state artifacts
+*.db
+*.sqlite
+*.sqlite3
+hey-to-gmail-report*.csv
+
+# Local auth/env files
+token.json
+credentials.json
+.env
+.env.*

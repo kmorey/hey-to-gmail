@@ -1,0 +1,6 @@
+X-Forwarded-For: user@gmail.com user@hey.com
+X-Forwarded-To: user@hey.com
+Delivered-To: user@gmail.com
+From: sender@example.com
+To: user@hey.com
+Subject: Test forwarded email
